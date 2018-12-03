@@ -1,3 +1,5 @@
+[slide]
+
 Lab: Data Types and Variables
 =============================
 
@@ -35,7 +37,7 @@ to **years**, **days**, **hours** and **minutes**.
 
 You might help yourself with the code below:
 
-![](/assets/programming-fundamentals-data-types-and-variables-lab-01.png)
+[image src="/assets/programming-fundamentals-data-types-and-variables-lab-01.png" /]
 
 Circle Area (12 Digits Precision)
 ---------------------------------
@@ -389,3 +391,4 @@ that it is **easy to read and understand**.
 
 -   Search for variables that have multiple purpose. If you find any,
     introduce a new variable
+[/slide]
