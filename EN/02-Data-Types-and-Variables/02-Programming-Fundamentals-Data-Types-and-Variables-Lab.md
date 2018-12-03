@@ -60,7 +60,7 @@ Use data type of **enough precision** to hold the results.
 -   To print the output with exactly 12 digits after the decimal point,
     you might use the following code:
 
-![](/assets/programming-fundamentals-data-types-and-variables-lab-02.png)
+[image src="assets/programming-fundamentals-data-types-and-variables-lab-02.png" /]
 
 Exact Sum of Real Numbers
 -------------------------
@@ -139,7 +139,7 @@ elevator.
 
 -   Sample code for the round-up calculation:
 
-![](/assets/programming-fundamentals-data-types-and-variables-lab-03.png)
+[image src="/assets/programming-fundamentals-data-types-and-variables-lab-03.png" /]
 
 Special Numbers
 ---------------
@@ -263,7 +263,7 @@ the first **n small Latin letters**, ordered alphabetically:
 Perform 3 nested loops from **0** to **n-1**. For each number **num**
 print its corresponding Latin letter as follows:
 
-![](/assets/programming-fundamentals-data-types-and-variables-lab-04.png)
+[image src="/assets/programming-fundamentals-data-types-and-variables-lab-04.png" /]
 
 Greeting
 --------
@@ -288,7 +288,7 @@ years old.***\". Use interpolated strings.
 
 You might use the following code:
 
-![](/assets/programming-fundamentals-data-types-and-variables-lab-05.png)
+[image src="/assets/programming-fundamentals-data-types-and-variables-lab-05.png" /]
 
 Variables
 =========
