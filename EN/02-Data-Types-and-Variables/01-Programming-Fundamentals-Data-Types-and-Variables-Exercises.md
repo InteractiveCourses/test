@@ -385,7 +385,7 @@ is to modify it in a way that is **easy to read and understand.**
 
 **Code**
 
-```
+```csharp
 int \_\_\_Do\_\_\_ = int.Parse(Console.ReadLine());
 
 for (int DAVIDIM = 0; DAVIDIM \<= \_\_\_Do\_\_\_; DAVIDIM++)
