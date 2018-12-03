@@ -37,7 +37,7 @@ to **years**, **days**, **hours** and **minutes**.
 
 You might help yourself with the code below:
 
-[image src="/assets/programming-fundamentals-data-types-and-variables-lab-01.png" /]
+[image src="https://github.com/InteractiveCourses/test/blob/master/EN/02-Data-Types-and-Variables/assets/programming-fundamentals-data-types-and-variables-lab-01.png" /]
 
 Circle Area (12 Digits Precision)
 ---------------------------------
