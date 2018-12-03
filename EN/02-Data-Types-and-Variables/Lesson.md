@@ -1,1 +1,1 @@
-# lesson 02
+# Lesson 2. Programming Fundamentals Data Types and Variables
