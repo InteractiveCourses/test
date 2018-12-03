@@ -7,7 +7,7 @@ course @
 SoftUni]{.underline}](https://softuni.bg/courses/programming-fundamentals).
 
 You can check your solutions here:
-[[https://judge.softuni.bg/Contests/206/Data-Types-and-Variables-Exercises]{.underline}](https://judge.softuni.bg/Contests/206/Data-Types-and-Variables-Exercises).
+[https://judge.softuni.bg/Contests/206/Data-Types-and-Variables-Exercises](https://judge.softuni.bg/Contests/206/Data-Types-and-Variables-Exercises).
 
 -   **Practice Integer Numbers**
 
